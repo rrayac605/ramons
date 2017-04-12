@@ -1,5 +1,0 @@
-INDEX VERSION 1.127
-C:\workspaceHTML5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3527293705.index
-\Ramons\src\main\resources
-C:\workspaceHTML5\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2610423318.index
-\prueba\src\main\java
